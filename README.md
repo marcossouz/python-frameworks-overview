@@ -16,7 +16,11 @@
 
 ## analyzed frameworks
 - Django
+  - port 8000
+  - ./manage.py runserver
 - Flask
+  - port 5000
+  - python app.py
 - Pyramid
 - Web2py
 - TurboGears
